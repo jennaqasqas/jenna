@@ -1,0 +1,15 @@
+1. I'm interested in modeling quantum systems. Also interested in electron diffraction, a materials research data analyzer, modeling temperature dependence of superconductivity, phonon vibrations in a 2d crystal lattice
+2. 2D Lattice phonon vibrations:
+https://courses.cit.cornell.edu/ece407/Lectures/handout18.pdf
+This slide deck goes into the equations behind modeling phonon vibrations in a 2D lattice.
+Ising magnetic phase transition:
+https://www.youtube.com/watch?v=pQdCHTFIIs4
+In a ferromagnetic material, as the temperature increases, the spins begin to lose their ordering and enter a paramagnetic regime.
+Toy Model -> band structure
+How Chemistry and Physics Meet in the Solid State By Roald Hoffmann
+This describes the toy model and used it to derive the band structure of a simple 1D chain of atoms. 
+3. Ising magnetic phase transition: maybe a grid or array respresenting all of the elctrons in a system, and a for loop changing them as a function of temperature.
+4. Dream project: using a monte carlo simulation to make an animation of a material going from a ferromagnet to a paramagent and passing its critical temperature.
+more realistic: modeling superconductivity as a function of temperature. Also for the toy model, showing the bandgap opening as the interactions increase.
+
+
